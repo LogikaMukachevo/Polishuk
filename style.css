@@ -19,6 +19,13 @@ header a {
     margin: 30px;
 }
 
+article:hover {
+    background-color: #2adede;
+    color: white;
+    font-size: 25px;
+    transition: 1s ease-in;
+}
+
 header img {
     width: 200px;
     height: 60px;
